@@ -1,0 +1,10 @@
+cfenv==0.5.3
+Flask==1.0.2
+gevent
+requests
+ibmcloudenv
+livereload
+pillow
+numpy
+pandas
+scikit-learn==0.20.2
